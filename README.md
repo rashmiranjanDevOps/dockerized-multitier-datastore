@@ -69,7 +69,7 @@ docker-compose up --build
 ## 🌐 Access the Application
 
 * Frontend → http://localhost:8080
-* Backend → http://localhost:8081
+* Backend → http://localhost:8084
 
 ---
 
@@ -77,7 +77,7 @@ docker-compose up --build
 
 | Service            | Endpoint               |
 | ------------------ | ---------------------- |
-| Frontend → Backend | http://backend:8081    |
+| Frontend → Backend | http://backend:8084    |
 | Backend → MySQL    | jdbc:mysql://mydb:3306 |
 
 ---
